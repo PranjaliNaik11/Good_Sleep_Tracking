@@ -31,12 +31,12 @@ The main objectives of this analysis are:
 
 ## Analysis Steps
 ### 1. Data Loading and Preprocessing
--Load the dataset sleep_health_data.csv.
--Inspect the data for missing values and inconsistencies.
--Handle missing values and clean the data as needed.
+- Load the dataset sleep_health_data.csv.
+- Inspect the data for missing values and inconsistencies.
+- Handle missing values and clean the data as needed.
 ### 2. Descriptive Statistics
--Calculate basic statistics (mean, median, standard deviation) for each numeric column.
--Summarize the distribution of categorical columns.
+- Calculate basic statistics (mean, median, standard deviation) for each numeric column.
+- Summarize the distribution of categorical columns.
 ### 3. Occupation Analysis
 - Occupation with Lowest Average Sleep Duration:
     - Group the data by occupation.
@@ -47,22 +47,23 @@ The main objectives of this analysis are:
     - Calculate the average quality of sleep for each occupation.
     - Identify the occupation with the lowest average quality of sleep.
 ### 4. BMI Category and Insomnia Analysis
--Group the data by BMI category.
--Count the number of individuals diagnosed with insomnia in each BMI category.
--Identify which BMI categories have the highest prevalence of insomnia.
+- Group the data by BMI category.
+- Count the number of individuals diagnosed with insomnia in each BMI category.
+- Identify which BMI categories have the highest prevalence of insomnia.
 ### 5. Insomnia Diagnosis Ratio
--Calculate the total number of individuals diagnosed with insomnia.
--Calculate the ratio of individuals diagnosed with insomnia to the total number of -individuals in the dataset.
+- Calculate the total number of individuals diagnosed with insomnia.
+- Calculate the ratio of individuals diagnosed with insomnia to the total number of -individuals in the dataset.
 
 ## Results
 ### Occupation with Lowest Average Sleep Duration
-- The occupation with the lowest average sleep duration was identified. [Details]
+- The occupation with the lowest average sleep duration was identified as Sales Representative.
 ### Occupation with Lowest Average Quality of Sleep
-- The occupation with the lowest average quality of sleep was identified. [Details]
+- The occupation with the lowest average quality of sleep was identified as Sales Representative.
 ### BMI Category and Insomnia
-- The analysis revealed the prevalence of insomnia across different BMI categories. [Details]
+- The analysis revealed the prevalence of insomnia across different BMI categories.
 ### Insomnia Diagnosis Ratio
-- The ratio of individuals diagnosed with insomnia was calculated. [Details]
+- The ratio of individuals diagnosed with insomnia was calculated as follows:
+{'Normal': 0.04, 'Overweight': 0.43, 'Obese': 0.4}.
 
 ## Conclusion
 This analysis provides insights into the sleep health of individuals based on their occupation, BMI category, and other lifestyle metrics. The findings can help identify groups that may benefit from targeted interventions to improve their sleep health.
