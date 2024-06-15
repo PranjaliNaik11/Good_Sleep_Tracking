@@ -52,7 +52,7 @@ The main objectives of this analysis are:
 - Identify which BMI categories have the highest prevalence of insomnia.
 ### 5. Insomnia Diagnosis Ratio
 - Calculate the total number of individuals diagnosed with insomnia.
-- Calculate the ratio of individuals diagnosed with insomnia to the total number of -individuals in the dataset.
+- Calculate the ratio of individuals diagnosed with insomnia to the total number of individuals in the dataset.
 
 ## Results
 ### Occupation with Lowest Average Sleep Duration
